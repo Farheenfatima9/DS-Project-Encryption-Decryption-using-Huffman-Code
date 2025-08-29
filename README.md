@@ -21,53 +21,33 @@ It demonstrates concepts of **data structures**, **object-oriented programming (
 ---
 
 ## 🚀 Usage
+- Launch the program
+- Click Open File Explorer
+- Select any .txt file
+- The program will:
+-   - Read the file
+    - Generate Huffman codes
+    - Encode and compress the data
+    - Decode the compressed file back to the original text
 
-Launch the program
-
-Click Open File Explorer
-
-Select any .txt file
-
-The program will:
-
-Read the file
-
-Generate Huffman codes
-
-Encode and compress the data
-
-Decode the compressed file back to the original text
-
-##🔎 Workflow
+##🔎 **Workflow**
 
 The implementation follows these steps:
 
-Open a text file using the GUI
-
-Read file contents into a string
-
-Count the frequency of each character
-
-Store characters and frequencies in a vector
-
-Build a priority queue and create a Huffman Tree
-
-Traverse the tree to generate binary Huffman codes for each character
-
-Encode the text into compressed form using bitset
-
-Save the encoded data into a file
-
-Decode the data by matching codes with characters
-
-Save the decoded text back into a file
+  - Open a text file using the GUI
+  - Read file contents into a string
+  - Count the frequency of each character
+  - Store characters and frequencies in a vector
+  - Build a priority queue and create a Huffman Tree
+  - Traverse the tree to generate binary Huffman codes for each character
+  - Encode the text into compressed form using bitset
+  - Save the encoded data into a file
+  - Decode the data by matching codes with characters
+  - Save the decoded text back into a file
 
 ## 🛠️ Technologies Used
 
-Language: C++
-
-IDE: Visual Studio
-
-GUI: Windows Forms (C++)
-
-Data Structures: Vectors, Lists, Priority Queue, Binary Tree
+  - Language: C++
+  - IDE: Visual Studio
+  - GUI: Windows Forms (C++)
+  - Data Structures: Vectors, Lists, Priority Queue, Binary Tree
