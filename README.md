@@ -1,4 +1,3 @@
-# DS-Project-Encryption-Decryption-using-Huffman-Code
 # Encryption & Decryption using Huffman Coding
 
 This project implements **file compression and decompression using Huffman Coding** in C++ with a simple GUI built in Visual Studio.  
@@ -30,7 +29,7 @@ It demonstrates concepts of **data structures**, **object-oriented programming (
     - Encode and compress the data
     - Decode the compressed file back to the original text
 
-##🔎 **Workflow**
+🔎 **Workflow**
 
 The implementation follows these steps:
 
