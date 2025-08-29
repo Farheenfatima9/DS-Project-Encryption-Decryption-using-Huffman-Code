@@ -20,7 +20,7 @@ It demonstrates concepts of **data structures**, **object-oriented programming (
 
 ---
 
-🚀 Usage
+## 🚀 Usage
 
 Launch the program
 
@@ -38,7 +38,7 @@ Encode and compress the data
 
 Decode the compressed file back to the original text
 
-🔎 Workflow
+##🔎 Workflow
 
 The implementation follows these steps:
 
@@ -62,7 +62,7 @@ Decode the data by matching codes with characters
 
 Save the decoded text back into a file
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Language: C++
 
