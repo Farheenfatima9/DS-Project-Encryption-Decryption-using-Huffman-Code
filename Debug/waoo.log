@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\Semester 4\DS\Project\waoo\Header.h(95,22): warning C4018: '<': signed/unsigned mismatch
+D:\Semester 4\DS\Project\waoo\Header.h(200,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semester 4\DS\Project\waoo\Header.h(202,22): warning C4018: '<': signed/unsigned mismatch
+D:\Semester 4\DS\Project\waoo\Header.h(234,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semester 4\DS\Project\waoo\Header.h(253,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semester 4\DS\Project\waoo\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  waoo.vcxproj -> D:\Semester 4\DS\Project\waoo\Debug\waoo.exe

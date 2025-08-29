@@ -1,0 +1,4 @@
+D:\Semester 4\DS\Project\waoo\Debug\waoo.vcxproj.AssemblyReference.cache
+D:\Semester 4\DS\Project\waoo\Debug\waoo.exe
+D:\Semester 4\DS\Project\waoo\Debug\waoo.MyForm.resources
+D:\Semester 4\DS\Project\waoo\Debug\waoo.vcxproj.GenerateResource.cache
